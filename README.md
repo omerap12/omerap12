@@ -1,4 +1,4 @@
-<p align = "center"> ## Hi! I'm Omer 👋 </p>
+<p align = "center">  Hi! I'm Omer 👋 </p>
 
 ## About me:
 
