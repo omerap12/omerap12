@@ -14,6 +14,9 @@
   <br>
 </p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerap12&show_icons=true&theme=radical)
+
 ### 📫 Connect with me:
 
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
