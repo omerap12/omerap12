@@ -1,6 +1,4 @@
-<p align="center">
-Hi! I'm Omer 👋
-</p>
+## Hi! I'm Omer 👋
 
 ## About me:
 
