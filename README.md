@@ -16,7 +16,6 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlfredDagenais | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:omerap12@gmail.com)
   
@@ -25,7 +24,6 @@
 <br />
 
 
-[website]: https://github.com/omerap12
 [linkedin]: https://www.linkedin.com/in/omer-aplatony/
 [gmail]: "mailto:omerap12@gmail.com"
 [projects]: https://github.com/omerp12?tab=repositories
