@@ -1,5 +1,6 @@
 <p align="center">
-### Hi there, I'm Omer 👋 </p>
+Hi there, I'm Omer 👋 
+</p>
 
 ## About me:
 
