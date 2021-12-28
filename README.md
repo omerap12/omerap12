@@ -1,6 +1,6 @@
 ### Hi there, I'm Omer 👋 
 
-## About me
+## About me:
 
 - 🔭 BSc Computer Science 2nd year.
 - 🌱 I’m currently looking for a software developer student position.
