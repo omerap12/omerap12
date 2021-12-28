@@ -1,5 +1,5 @@
 <p align="center">
-<font size="10">Hello!, I'm Omer 👋 .</font>
+<font size="30">Hello!, I'm Omer 👋</font>
 
 </p>
 
