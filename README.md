@@ -18,8 +18,7 @@
 
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlfredDagenais | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:omerap12@gmail.com)
-[<img align="left" alt="AlfredDagenais | CodeWars" width="22px" src= />]![codewars](https://user-images.githubusercontent.com/61663422/156873374-e9e1a3d3-7562-4ca0-9e51-128059ec7d76.svg)
-[CodeWars]
+[<img align="left" alt="AlfredDagenais | CodeWars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][CodeWars]
   
 
 <br />
