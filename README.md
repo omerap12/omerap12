@@ -18,6 +18,8 @@
 
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlfredDagenais | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:omerap12@gmail.com)
+[<img align="left" alt="AlfredDagenais | CodeWars" width="22px" src= />]![codewars](https://user-images.githubusercontent.com/61663422/156873374-e9e1a3d3-7562-4ca0-9e51-128059ec7d76.svg)
+[CodeWars]
   
 
 <br />
@@ -27,6 +29,7 @@
 [linkedin]: https://www.linkedin.com/in/omer-aplatony/
 [gmail]: "mailto:omerap12@gmail.com"
 [projects]: https://github.com/omerp12?tab=repositories
+[CodeWars]: https://www.codewars.com/users/Omerap12
 
 
 
