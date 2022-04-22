@@ -2,7 +2,7 @@
 
 ## About me:
 
-- 🔭 BSc Computer Science 2nd year.
+- 🔭 BSc Computer Science student 2nd year.
 - 🌱 I’m currently looking for a software developer student position.
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to read.
