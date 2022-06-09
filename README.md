@@ -3,9 +3,7 @@
 ## About me:
 
 - 🔭 BSc Computer Science student 2nd year.
-- 🌱 I’m currently looking for a software developer student position.
 - 👯 I’m looking to collaborate with other content creators.
-- ⚡ Fun fact: I love to read.
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=omerap12&show_icons=true&theme=radical&hide=contribs">
