@@ -2,7 +2,7 @@
 
 ## About me:
 
-- 🔭 BSc Computer Science student 2nd year.
+- 🔭 BSc Computer Science student3nd year.
 - 👯 I’m looking to collaborate with other content creators.
 
 <p align="center">
