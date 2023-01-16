@@ -1,32 +1,15 @@
-<p align = "center">  Hi! I'm Omer 👋 </p>
 
-## About me:
-
-- 🔭 BSc Computer Science student 3rd year.
-- 👯 I’m looking to collaborate with other content creators.
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=omerap12&show_icons=true&theme=radical&hide=contribs">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=omerap12&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">  
-  <br>
-</p>
-
-
-### 📫 Connect with me:
-
-[<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlfredDagenais | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:omerap12@gmail.com)
-[<img align="left" alt="AlfredDagenais | CodeWars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][CodeWars]
-  
-
-<br />
-<br />
-
-
-[linkedin]: https://www.linkedin.com/in/omer-aplatony/
-[gmail]: "mailto:omerap12@gmail.com"
-[projects]: https://github.com/omerp12?tab=repositories
-[CodeWars]: https://www.codewars.com/users/Omerap12
+# Hi, I'm Omer! 👋
+BSc Computer Science student 3rd year.
 
 
 
+## 🚀 About me
+For more - contact me. maybe Ill tell you ;)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-aplatony/)
+
+
+
+## 🛠 Skills
+Python, Shell Script, Go, C, C++, Docker, Kuberenetes, Github Actions.
