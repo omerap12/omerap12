@@ -12,4 +12,4 @@ For more - contact me. maybe Ill tell you ;)
 
 
 ## 🛠 Skills
-Python, Shell Script, Go, C, C++, Docker, Kuberenetes, Github Actions.
+AWS, Python, Shell Script, Go, C, C++, Docker, Kuberenetes, Github Actions.
