@@ -2,8 +2,7 @@
 
 ## 📩 Contact Information
 ### 🔗 Connect with Me
-You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-aplatony/):
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-aplatony/)
+You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-aplatony/) :)
 
 ## 🛠 Technical Proficiency
 ### 🌐 Cloud Computing
