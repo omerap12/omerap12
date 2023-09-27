@@ -17,6 +17,9 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-apla
 - Docker
 - Kubernetes
 
+### ☁️ Infrastructure as Code
+- Terraform
+
 ### 🚀 Continuous Integration/Continuous Deployment
 - GitHub Actions
 - Screwdriver.cd
