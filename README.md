@@ -23,6 +23,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-apla
 ### 🚀 Continuous Integration/Continuous Deployment
 - GitHub Actions
 - Screwdriver.cd
+- Jenkins
 
 ## 🏆 Certifications
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2e012283-99a7-4bf3-8f72-f207f9536e2b/public_url)
