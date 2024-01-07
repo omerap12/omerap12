@@ -32,4 +32,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-apla
 - [AWS Knowledge: Serverless](https://www.credly.com/badges/d7813327-eb42-4745-ba1a-193566ea103a)
   <img src="https://images.credly.com/size/120x120/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" width="100px">
 
+- [AWS Knowledge: Amazon EKS](https://www.credly.com/badges/50fd0e08-c549-4e0a-b69c-62d9b3ed7d18/public_url)
+  <img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="AWS Knowledge: Amazon EKS" width="100px">
+
 Feel free to reach out and connect with me via LinkedIn. Thank you!
