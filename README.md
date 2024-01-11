@@ -38,4 +38,8 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-apla
   <img src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" alt="AWS Knowledge: Amazon EKS" width="100px">
 </a>
 
+<a href="https://www.credly.com/badges/0dc11661-edd3-4d5a-a0b2-7ac61e0accc4/public_url" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png" alt="AWS Knowledge: Compute" width="100px">
+</a>
+
 Feel free to reach out and connect with me via LinkedIn. Thank you!
