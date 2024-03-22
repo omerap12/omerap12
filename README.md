@@ -20,7 +20,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-apla
 - Kubernetes
 
 ### ☁️ Infrastructure as Code
-- Terraform
+- Terraform & Terragrunt
 
 ### 🚀 Continuous Integration/Continuous Deployment
 - GitHub Actions
