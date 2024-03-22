@@ -7,6 +7,8 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-apla
 ## 🛠 Technical Proficiency
 ### 🌐 Cloud Computing
 - AWS
+- GCP
+- DigitalOcean
 
 ### 🐍 Programming Languages
 - Python
