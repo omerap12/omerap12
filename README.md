@@ -4,6 +4,10 @@
 ### 🔗 Connect with Me
 You can connect with me through [LinkedIn](https://www.linkedin.com/in/omer-aplatony/) :)
 
+## 🎓 Education
+### 🏫 Bar-Ilan University
+- BSc in Computer Science
+
 ## 🛠 Technical Proficiency
 ### 🌐 Cloud Computing
 - AWS
