@@ -1,4 +1,4 @@
-# Greetings, I am Omer! 👋
+# I am Omer.
 
 ## 📩 Contact Information
 ### 🔗 Connect with Me
